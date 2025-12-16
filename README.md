@@ -78,8 +78,8 @@ Pashto Voice Recorder is designed specifically for creating voice datasets for P
 
 
 
-Contact: Wali Muhammed
-Email: [[[Here](mailto:walliafghan22@gmail.com)]
+Contact: Mohammed Wali
+Email: [[[Here](mailto:waliafghan22@gmail.com)]
 ⚖️ Legal
 © 2025 Pashto Voice Recorder. All rights reserved.
 
