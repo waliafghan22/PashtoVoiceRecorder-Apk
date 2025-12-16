@@ -5,7 +5,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg)
 ![Language](https://img.shields.io/badge/Language-Kotlin-blue.svg)
 ![MinSDK](https://img.shields.io/badge/MinSDK-24-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A professional Android application for building high-quality Pashto speech datasets. Streamlined workflow for recording scripted prompts, reviewing recordings, and organizing sessions into dataset-ready structures.
 
